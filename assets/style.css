@@ -14,3 +14,11 @@ body {
   height: 30px;
   line-height: 30px;
 }
+
+.row-content {
+  margin: 15px 0px 15px 0px;
+}
+
+.card {
+  margin: 15px 0px 15px 0px;
+}
